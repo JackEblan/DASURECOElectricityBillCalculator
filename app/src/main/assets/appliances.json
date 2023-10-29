@@ -1,0 +1,287 @@
+[
+  {
+    "image": "file:///android_asset/images/ceiling_fan_3_blader.png",
+    "name": "Ceiling Fan (3 Blader)",
+    "wattage": 140
+  },
+  {
+    "image": "file:///android_asset/images/desk_fan.png",
+    "name": "Desk Fan",
+    "wattage": 50
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Exhaust Fan",
+    "wattage": 92
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Stand Fan 16`",
+    "wattage": 80
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Christmas Lights w/ Blinker",
+    "wattage": 16
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Christmas Lights w/o Blinker",
+    "wattage": 56
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Air Cooler/Humidifier",
+    "wattage": 65
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Aircon 1 HP",
+    "wattage": 746
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Aircon 1.5 HP",
+    "wattage": 1119
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Aircon 2 HP",
+    "wattage": 1492
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Aircon 2.5 HP",
+    "wattage": 1865
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Aircon 3 HP",
+    "wattage": 2238
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Battery Charger",
+    "wattage": 85
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Blender",
+    "wattage": 300
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Bread Toaster (2-Way)",
+    "wattage": 800
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "CFL Bulb 5 Watts",
+    "wattage": 5
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "CFL Bulb 15 Watts",
+    "wattage": 15
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "CFL Bulb 18 Watts",
+    "wattage": 18
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "CFL Chandelier",
+    "wattage": 150
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Clothes Dryer (Spin Motor)",
+    "wattage": 250
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Coffee Maker",
+    "wattage": 600
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Computer Printer",
+    "wattage": 175
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Computer W/ Monitor",
+    "wattage": 225
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "DVD Player",
+    "wattage": 50
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Electric Stove",
+    "wattage": 800
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Fax Machine",
+    "wattage": 115
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Flat Iron (Standard)",
+    "wattage": 600
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Flat Screen TV",
+    "wattage": 120
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Flourescent Lamp 12 Watts",
+    "wattage": 12
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Flourescent Lamp 18 Watts",
+    "wattage": 18
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Hair Blower (Parlor Use)",
+    "wattage": 100
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Hair Dryer - 320",
+    "wattage": 320
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Karaoke",
+    "wattage": 380
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Laptop",
+    "wattage": 50
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Microwave Oven",
+    "wattage": 1000
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Nebulizer",
+    "wattage": 184
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Oven Toaster",
+    "wattage": 750
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Overhead Projector",
+    "wattage": 500
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Refrigerator (4 cu. Ft)",
+    "wattage": 100
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Refrigerator (6 cu. Ft)",
+    "wattage": 110
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Refrigerator (7 cu. Ft)",
+    "wattage": 120
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Refrigerator (8 cu. Ft)",
+    "wattage": 130
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Refrigerator (9 cu. Ft)",
+    "wattage": 140
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Refrigerator (10 cu. Ft)",
+    "wattage": 155
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Refrigerator (11 cu. Ft)",
+    "wattage": 170
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Rice Cooker",
+    "wattage": 160
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Turbo Broiler",
+    "wattage": 1000
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "TV 21`` Colored",
+    "wattage": 110
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Vacuum Cleaner",
+    "wattage": 800
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Video Game Machine",
+    "wattage": 155
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Videoke Machine 21`",
+    "wattage": 255
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Washing Machine (Automatic)",
+    "wattage": 585
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Washing Machine (Non-Automatic)",
+    "wattage": 280
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Water Dispenser (Heating)",
+    "wattage": 5550
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Water Dispenser (Cooling)",
+    "wattage": 90
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Water Heater",
+    "wattage": 3000
+  },
+  {
+    "image": "file:///android_asset/images/img.png",
+    "name": "Water Pump (Automatic, 1 HP)",
+    "wattage": 746
+  }
+]
