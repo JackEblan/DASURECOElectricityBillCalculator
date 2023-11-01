@@ -3,7 +3,7 @@ package com.android.dasurecoelectricitybillcalculator.presentation.bill_calculat
 import com.android.dasurecoelectricitybillcalculator.domain.model.ApplianceItem
 
 data class BillCalculatorState(
-    val isLoading: Boolean = true,
+    val isLoading: Boolean = false,
     val list: List<ApplianceItem> = emptyList(),
     val error: String? = null,
     val wattage: String = "",

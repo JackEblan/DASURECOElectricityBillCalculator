@@ -18,15 +18,17 @@ class JsonRepositoryImpl @Inject constructor(
         val type = object : TypeToken<List<ApplianceItem>>() {}.type
 
         return flow {
-            val jsonString = jsonDataSource.readJson(JsonDataSource.appliances_json)
-            val list = gson.fromJson<List<ApplianceItem>>(jsonString, type)
+            val result = jsonDataSource.readJson(JsonDataSource.appliances_json)
+
+            emit(Resource.Loading())
 
             delay(2000)
 
-            if (list.isNullOrEmpty()) {
-                emit(Resource.Error(message = "Json file cannot be found or empty"))
-            } else {
+            result.onSuccess { jsonString ->
+                val list = gson.fromJson<List<ApplianceItem>>(jsonString, type)
                 emit(Resource.Success(data = list))
+            }.onFailure {
+                emit(Resource.Error(message = "Json file cannot be found or empty"))
             }
         }
     }

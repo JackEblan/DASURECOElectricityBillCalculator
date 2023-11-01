@@ -40,6 +40,10 @@ class BillCalculatorViewModel @Inject constructor(
                                     isLoading = false, list = result.data ?: emptyList()
                                 )
                             }
+
+                            is Resource.Loading -> {
+                                _state.value = _state.value.copy(isLoading = true)
+                            }
                         }
                     }
                 }
